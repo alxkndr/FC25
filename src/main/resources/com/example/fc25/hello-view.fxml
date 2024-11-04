@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="37.0" layoutY="163.0" mnemonicParsing="false" text="Add" textFill="RED" />
+      <Button layoutX="75.0" layoutY="163.0" mnemonicParsing="false" text="View" textFill="RED" />
+      <Button layoutX="117.0" layoutY="163.0" mnemonicParsing="false" text="Delete" textFill="RED" />
+      <CheckBox layoutX="371.0" layoutY="108.0" mnemonicParsing="false" />
+      <Label layoutX="358.0" layoutY="73.0" text="Captain" />
+      <TextField layoutX="191.0" layoutY="104.0" />
+      <TextField layoutX="56.0" layoutY="104.0" prefHeight="25.0" prefWidth="111.0" />
+      <Label layoutX="57.0" layoutY="73.0" text="Player's name" />
+      <Label layoutX="191.0" layoutY="73.0" text="Player's goals" />
+      <TextArea layoutX="112.0" layoutY="235.0" prefHeight="140.0" prefWidth="377.0" />
+   </children>
+</AnchorPane>
